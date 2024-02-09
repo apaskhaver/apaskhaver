@@ -1,4 +1,4 @@
-# Hello! I'm Alexandra. 👋
+# Hello! I'm Alex. 👋
 
 I'm a student at Rutgers University who writes code and columns. I'm interested in using my software engineering and writing skills to create valuable online experiences.
 
